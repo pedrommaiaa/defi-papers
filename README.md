@@ -17,3 +17,7 @@
 - [Theory of Cryptocurrency Interest Rates](https://arxiv.org/pdf/1904.05472.pdf)
 
 - [How Lending Pool Interest Rates actually work](https://medium.com/hydro-protocol/how-lending-pool-interest-rates-actually-work-375794e71716)
+
+## Yield Aggregators
+
+- [SoK: Yield Aggregators in DeFi](https://arxiv.org/pdf/2105.13891.pdf)
