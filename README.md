@@ -21,3 +21,10 @@
 ## Yield Aggregators
 
 - [SoK: Yield Aggregators in DeFi](https://arxiv.org/pdf/2105.13891.pdf)
+
+## Protocols
+
+- **AAVE**:
+  - [Protocol Whitepaper V1.0](https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf)
+  - [Protocol Whitepaper V2.0](https://github.com/aave/protocol-v2/blob/master/aave-v2-whitepaper.pdf)
+  - [Protocol Whitepaper V3.0](https://github.com/aave/aave-v3-core/blob/master/techpaper/Aave_V3_Technical_Paper.pdf)
