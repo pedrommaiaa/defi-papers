@@ -29,6 +29,9 @@
   - [Protocol Whitepaper V2.0](https://github.com/aave/protocol-v2/blob/master/aave-v2-whitepaper.pdf)
   - [Protocol Whitepaper V3.0](https://github.com/aave/aave-v3-core/blob/master/techpaper/Aave_V3_Technical_Paper.pdf)
 
+- **MakerDAO**:
+  - [The Maker Protocol:MakerDAO’s Multi-Collateral Dai (MCD) System](https://makerdao.com/whitepaper/White%20Paper%20-The%20Maker%20Protocol_%20MakerDAO%E2%80%99s%20Multi-Collateral%20Dai%20(MCD%29%20System-FINAL-%20021720.pdf)
+
 ## MEV
 
 - [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234), 2019
