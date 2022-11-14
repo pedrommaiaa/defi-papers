@@ -22,6 +22,10 @@
 
 - [SoK: Yield Aggregators in DeFi](https://arxiv.org/pdf/2105.13891.pdf)
 
+## Liquidations
+
+- [An Empirical Study of DeFi Liquidations: Incentives, Risks, and Instabilities](https://arxiv.org/pdf/2106.06389.pdf)
+
 ## Protocols
 
 - **AAVE**:
