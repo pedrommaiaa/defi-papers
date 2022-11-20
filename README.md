@@ -6,6 +6,8 @@
 - [DeFi Protocols for Loanable Funds: Interest Rates, Liquidity and Market Efficiency
 ](https://arxiv.org/abs/2006.13922)
 
+- [SoK: Lending Pools in Decentralized Finance](https://arxiv.org/pdf/2012.13230.pdf)
+
 - [Illiquidity and Bank Run Risk in Defi](https://medium.com/alethio/overlooked-risk-illiquidity-and-bank-runs-on-compound-finance-5d6fc3922d0d)
 
 - [Crypto Black Thursday: The Good, the Bad, and the Ugly](https://medium.com/aave/crypto-black-thursday-the-good-the-bad-and-the-ugly-7f2acebf2b83)
