@@ -27,6 +27,10 @@
 - [Yield Generation Using Decentralized Financial (DeFi) Applications ][https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1546&context=senior_theses#:~:text=Decentralized%20financial%20(DeFi)%20applications%20are,much%20like%20a%20traditional%20bank.]
 - [Where do DeFi Stablecoins Go? A Closer Look at What DeFi Composability Really Means](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893487)
 
+## liquidity Mining
+
+-[Liquidity Mining: A User-Centric Token Distribution Strategy](https://medium.com/bollinger-investment-group/liquidity-mining-a-user-centric-token-distribution-strategy-1d05c5174641)
+
 ## Liquidations
 
 - [An Empirical Study of DeFi Liquidations: Incentives, Risks, and Instabilities](https://arxiv.org/pdf/2106.06389.pdf)
