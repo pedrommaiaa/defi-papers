@@ -24,12 +24,13 @@
 
 - [SoK: Yield Aggregators in DeFi](https://arxiv.org/pdf/2105.13891.pdf)
 - [Reap the Harvest on Blockchain: A Survey of Yield Farming Protocols](https://arxiv.org/pdf/2210.04194.pdf)
-- [Yield Generation Using Decentralized Financial (DeFi) Applications ][https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1546&context=senior_theses#:~:text=Decentralized%20financial%20(DeFi)%20applications%20are,much%20like%20a%20traditional%20bank.]
+- [Yield Generation Using Decentralized Financial (DeFi) Applications](https://tinyurl.com/yield-generation)
 - [Where do DeFi Stablecoins Go? A Closer Look at What DeFi Composability Really Means](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893487)
 
 ## liquidity Mining
 
 -[Liquidity Mining: A User-Centric Token Distribution Strategy](https://medium.com/bollinger-investment-group/liquidity-mining-a-user-centric-token-distribution-strategy-1d05c5174641)
+-[On Liquidity Mining for Uniswap v3](https://arxiv.org/pdf/2108.05800.pdf)
 
 ## Liquidations
 
