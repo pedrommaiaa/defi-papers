@@ -1,7 +1,7 @@
 # Defi Papers
 
 
-## Lending, Borrowing, and Interest Rates
+## Lending Markets and Interest Rates
 
 - [DeFi Protocols for Loanable Funds: Interest Rates, Liquidity and Market Efficiency
 ](https://arxiv.org/abs/2006.13922)
