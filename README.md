@@ -24,10 +24,15 @@
 
 - [SoK: Yield Aggregators in DeFi](https://arxiv.org/pdf/2105.13891.pdf)
 - [Reap the Harvest on Blockchain: A Survey of Yield Farming Protocols](https://arxiv.org/pdf/2210.04194.pdf)
+- [Yield Generation Using Decentralized Financial (DeFi) Applications ][https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1546&context=senior_theses#:~:text=Decentralized%20financial%20(DeFi)%20applications%20are,much%20like%20a%20traditional%20bank.]
+- [Where do DeFi Stablecoins Go? A Closer Look at What DeFi Composability Really Means](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893487)
 
 ## Liquidations
 
 - [An Empirical Study of DeFi Liquidations: Incentives, Risks, and Instabilities](https://arxiv.org/pdf/2106.06389.pdf)
+
+## AMMs
+- [SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) Protocols](https://arxiv.org/abs/2103.12732)
 
 ## Protocols
 
