@@ -29,7 +29,7 @@
 
 ## liquidity Mining
 
--[Liquidity Mining: A User-Centric Token Distribution Strategy](https://medium.com/bollinger-investment-group/liquidity-mining-a-user-centric-token-distribution-strategy-1d05c5174641)
+-[Liquidity Mining: A User-Centric Token Distribution Strategy](https://medium.com/bollinger-investment-group/liquidity-mining-a-user-centric-token-distribution-strategy-1d05c5174641)  
 -[On Liquidity Mining for Uniswap v3](https://arxiv.org/pdf/2108.05800.pdf)
 
 ## Liquidations
