@@ -23,6 +23,7 @@
 ## Yield Aggregators
 
 - [SoK: Yield Aggregators in DeFi](https://arxiv.org/pdf/2105.13891.pdf)
+- [Reap the Harvest on Blockchain: A Survey of Yield Farming Protocols](https://arxiv.org/pdf/2210.04194.pdf)
 
 ## Liquidations
 
