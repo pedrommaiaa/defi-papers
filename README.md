@@ -39,6 +39,10 @@
 ## AMMs
 - [SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) Protocols](https://arxiv.org/abs/2103.12732)
 
+## Oracles
+
+- [A First Look into DeFi Oracles](https://arxiv.org/pdf/2005.04377.pdf)
+
 ## Protocols
 
 - **AAVE**:
